@@ -1,0 +1,21 @@
+body{
+    background-image: url(img/bg1.png);
+    justify-content: center;
+    text-align: center;
+    font-family: 'Kdam Thmor Pro', 'Futura', 'sans-serif';
+    color: rgb(12, 89, 152);
+}
+
+li {
+    list-style-type: none;
+}
+
+.mainThing {
+    background-color: rgba(169, 206, 236, 0.5);
+    list-style-type: none;
+    margin: 10%, 10%;
+}
+
+h2 {
+    color:black;
+}
